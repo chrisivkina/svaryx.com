@@ -1,0 +1,12 @@
+{
+  "short_name": "Svaryx",
+  "name": "Svaryx",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "170x170"
+  }],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#fafafa",
+  "theme_color": "#fafafa"
+}

@@ -1,0 +1,39 @@
+# Svaryx Website Robots.txt
+User-agent: *
+Allow: /
+Disallow: /js/vendor/
+Disallow: /css/*.map
+
+# Allow media files
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.svg$
+Allow: /*.mp3$
+Allow: /*.ogg$
+
+# Site maps
+Sitemap: https://svaryx.com/sitemap.xml
+
+# Crawl delay for all bots
+Crawl-delay: 10
+
+# Specific instructions for major crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Yandex
+Allow: /

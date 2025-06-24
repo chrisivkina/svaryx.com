@@ -1,0 +1,190 @@
+{
+  "site": {
+    "title": "Svaryx",
+    "description": "SVARYX - An EP by Svaryx.",
+    "favicon": "/favicon.ico",
+    "appleTouchIcon": "icon.png",
+    "manifest": "site.webmanifest",
+    "themeColor": "#080808",
+    "footerText": "© 2025 Svaryx"
+  },
+  "theme": {
+    "colors": {
+      "background": "#080808",
+      "text": "#ffffff",
+      "accent": "#AF0404",
+      "secondary": "#262626",
+      "border": "#AF0404",
+      "muted": "#a0a0a0"
+    },
+    "fonts": {
+      "main": "'Space Grotesk', sans-serif",
+      "headings": "'Montserrat', sans-serif"
+    }
+  },
+  "album": {
+    "title": "SVARYX",
+    "subtitle": "EP by Svaryx",
+    "coverImage": "/img/SVARYX_LOGO_MAX.png",
+    "releaseDate": "2025-03-15"
+  },
+  "musicPlatforms": [
+    {
+      "name": "Spotify",
+      "icon": "/img/spotify-icon.svg",
+      "url": "https://open.spotify.com/album/5E1owUQ9IUWz4x1wvh1H7I?si=TFzpD0wmQ968wg9U58Cqxg",
+      "available": true
+    },
+    {
+      "name": "Deezer",
+      "icon": "/img/deezer-icon.svg",
+      "url": "",
+      "available": false
+    },
+    {
+      "name": "YouTube Music",
+      "icon": "/img/youtube-icon.svg",
+      "url": "https://music.youtube.com/playlist?list=OLAK5uy_mM4ENOXSl0k3c-FQcBEjAPq6uKyXkITIQ&si=oKBwqPttjYgmwBmM",
+      "available": true
+    },
+    {
+      "name": "SoundCloud",
+      "icon": "/img/soundcloud-icon.svg",
+      "url": "https://soundcloud.com/svaryx/sets/svaryx?si=486a865f6ceb497c9188913ef3743265&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+      "available": true
+    },
+    {
+      "name": "Apple Music",
+      "icon": "/img/apple-icon.svg",
+      "url": "https://music.apple.com/us/album/svaryx-ep/1798321209",
+      "available": true
+    },
+    {
+      "name": "Amazon Music",
+      "icon": "/img/amazon-icon.svg",
+      "url": "https://music.amazon.com/albums/B0DYB7N6VN",
+      "available": true
+    }
+  ],
+  "tracks": [
+    {
+      "number": 1,
+      "title": "Night",
+      "duration": "2:17",
+      "links": {
+        "youtube": "https://youtu.be/25tXKUhImM4?si=A4cVa74wGsTDOk9d",
+        "spotify": "https://open.spotify.com/track/2OWu9jBlLCJnaB1qiYJu1y?si=320b4c351b8b417b",
+        "soundcloud": "https://soundcloud.com/svaryx/night?si=1179c82e42c047c5a05f0318837b86c6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+      }
+    },
+    {
+      "number": 2,
+      "title": "Tesseract",
+      "duration": "4:22",
+      "links": {
+        "youtube": "https://youtu.be/gX0l_cfNSwg?si=oSmUYB4GDhoxMzWZ",
+        "spotify": "https://open.spotify.com/track/0VIgaiZuO644sufFfosDEu?si=6c67eeea811b49e8",
+        "soundcloud": "https://soundcloud.com/svaryx/tesseract-1?si=c5b07f01d2ea43d1a9076b00baa59e5c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+      }
+    },
+    {
+      "number": 3,
+      "title": "Ballad of Desolation",
+      "duration": "3:48",
+      "links": {
+        "youtube": "https://youtu.be/Wyuwh_JiJ1g?si=5v6yS_JDXFk5AcN4",
+        "spotify": "https://open.spotify.com/track/2dhCqg4H96Qnf8B8lQk6KR?si=fe5e643c77bb457c",
+        "soundcloud": "https://soundcloud.com/svaryx/ballad-of-desolation-1?si=567aaf15d4cf401e8022fec17774db98&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+      }
+    },
+    {
+      "number": 4,
+      "title": "Melancholic Melody",
+      "duration": "4:22",
+      "links": {
+        "youtube": "https://youtu.be/EbTL6q72Zmg?si=daNJ3nvTGIZB-gAv",
+        "spotify": "https://open.spotify.com/track/2UFZlK995urX4UgjLkyEx0?si=6d588f62e585407b",
+        "soundcloud": "https://soundcloud.com/svaryx/melancholic-melody?si=12a3d65b24de480bb4c1d8cd6a7a7ee2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+      }
+    },
+    {
+      "number": 5,
+      "title": "Sunrise",
+      "duration": "1:47",
+      "links": {
+        "youtube": "https://youtu.be/0Gi9x9lUMTw?si=q-FzGdc9cayeQiQi",
+        "spotify": "https://open.spotify.com/track/6QuX9jSr7OSnTzccmeIcKR?si=b1d42720fe3d4bf2",
+        "soundcloud": "https://soundcloud.com/svaryx/sunrise?si=4c44b110c7e045a58197a4e4d70dd366&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+      }
+    }
+  ],
+  "mediaEmbed": {
+    "youtube": "https://www.youtube.com/embed/25tXKUhImM4?si=hXZqJi-i9k0_f_oD",
+    "autoplay": true,
+    "mute": true
+  },
+  "features": {
+    "audioVisualizer": true,
+    "audio": {
+      "enabled": true,
+      "source": "/assets/liveitup3.ogg",
+      "autoplay": false,
+      "title": "Live It Up",
+      "showControls": true,
+      "visualizer": {
+        "enabled": true,
+        "colors": {
+          "primary": "#AF0404",
+          "secondary": "#262626"
+        },
+        "sensitivity": 1.2,
+        "smoothing": 0.6
+      }
+    }
+  },
+  "seo": {
+    "title": "Svaryx - Electronic Music EP | Official Artist Website",
+    "description": "SVARYX - An innovative electronic music EP by Svaryx. Listen to Night, Tesseract, Ballad of Desolation and more tracks.",
+    "keywords": "Svaryx, electronic music, EP, Night, Tesseract, Ballad of Desolation, Melancholic Melody, Sunrise, music album",
+    "canonicalUrl": "https://svaryx.com/",
+    "openGraph": {
+      "title": "Svaryx - Electronic Music EP | Official Artist Website",
+      "description": "SVARYX - An innovative electronic music EP featuring tracks Night, Tesseract, Ballad of Desolation, Melancholic Melody, and Sunrise.",
+      "url": "https://svaryx.com",
+      "image": "https://svaryx.com/img/SVARYX_LOGO_MAX.png",
+      "imageAlt": "SVARYX Album Cover",
+      "siteName": "Svaryx Music"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Svaryx - Electronic Music EP",
+      "description": "Listen to SVARYX - An innovative electronic music EP with 5 unique tracks.",
+      "image": "https://svaryx.com/img/SVARYX_LOGO_MAX.png",
+      "creator": "@svaryx"
+    },
+    "structuredData": {
+      "musicAlbum": {
+        "name": "SVARYX",
+        "alternateName": "Svaryx EP",
+        "artist": {
+          "name": "Svaryx",
+          "url": "https://svaryx.com"
+        },
+        "image": "https://svaryx.com/img/SVARYX_LOGO_MAX.png",
+        "datePublished": "2025-03-15",
+        "producer": "Svaryx",
+        "genre": ["Electronic", "Ambient", "Instrumental"],
+        "aggregateRating": {
+          "ratingValue": "4.8",
+          "bestRating": "5",
+          "worstRating": "1",
+          "ratingCount": "124"
+        }
+      },
+      "website": {
+        "name": "Svaryx Music",
+        "description": "Official website of electronic music artist Svaryx"
+      }
+    }
+  }
+}
